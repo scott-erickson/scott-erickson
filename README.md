@@ -1,10 +1,5 @@
-Howdy, I’m @scott-erickson,
+Hello Github!
 
-Currently interested studying Threejs, Webflow, Ethereum, and smart note taking systems.
+I’m @scott-erickson. Currently studying and building with Webflow and React. Interested in threejs and seeing how the web3 universe develops.
 
-Feel free to reach out to collaborate, or even just to say hello: sryanerickson@gmail.com
-
-<!---
-scott-erickson/scott-erickson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+More information available on my website: https://scotterickson.io
